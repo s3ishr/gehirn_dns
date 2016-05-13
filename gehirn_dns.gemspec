@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Shun ISHIHARA"]
   spec.email         = ["s.ishihara@jaist.ac.jp"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
+  spec.summary       = "Gehirn DNS API Client for Ruby"
+  spec.description   = "Implement Gehirn DNS API."
   spec.homepage      = "https://github.com/s3ishr/gehirn_dns"
   spec.license       = "MIT"
 
