@@ -5,7 +5,7 @@ require 'gehirn_dns/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "gehirn_dns"
-  spec.version       = GehirnDns::VERSION
+  spec.version       = GehirnDNS::VERSION
   spec.authors       = ["Shun ISHIHARA"]
   spec.email         = ["s.ishihara@jaist.ac.jp"]
 

@@ -1,5 +1,5 @@
 require "gehirn_dns/version"
 
-module GehirnDns
+module GehirnDNS
   # Your code goes here...
 end
